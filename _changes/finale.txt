@@ -1,0 +1,8 @@
+mods/data/finale/finale.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/finale/Voices.ogg
+mods/songs/finale/voices.ogg
+mods/songs/finale/Inst.ogg
+mods/songs/finale/inst.ogg

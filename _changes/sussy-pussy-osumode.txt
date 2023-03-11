@@ -1,0 +1,8 @@
+mods/data/sussy-pussy/sussy-pussy.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/sussy-pussy/Voices.ogg
+mods/songs/sussy-pussy/voices.ogg
+mods/songs/sussy-pussy/Inst.ogg
+mods/songs/sussy-pussy/inst.ogg

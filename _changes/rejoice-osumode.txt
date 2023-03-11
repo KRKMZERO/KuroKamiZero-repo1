@@ -1,0 +1,9 @@
+mods/data/rejoice/rejoice-hard.json
+mods/data/rejoice/rejoice.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/rejoice/Voices.ogg
+mods/songs/rejoice/voices.ogg
+mods/songs/rejoice/Inst.ogg
+mods/songs/rejoice/inst.ogg

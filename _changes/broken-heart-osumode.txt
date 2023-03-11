@@ -1,0 +1,10 @@
+mods/data/broken-heart/broken-heart-easy.json
+mods/data/broken-heart/broken-heart-hard.json
+mods/data/broken-heart/broken-heart.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/broken-heart/Voices.ogg
+mods/songs/broken-heart/voices.ogg
+mods/songs/broken-heart/Inst.ogg
+mods/songs/broken-heart/inst.ogg

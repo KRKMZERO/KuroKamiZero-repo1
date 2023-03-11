@@ -1,0 +1,11 @@
+mods/data/uproar/events.json
+mods/data/uproar/uproar-easy.json
+mods/data/uproar/uproar-hard.json
+mods/data/uproar/uproar.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/uproar/Voices.ogg
+mods/songs/uproar/voices.ogg
+mods/songs/uproar/Inst.ogg
+mods/songs/uproar/inst.ogg

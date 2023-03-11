@@ -1,0 +1,9 @@
+mods/data/uncanny-valley/centernotes.lua
+mods/data/uncanny-valley/uncanny-valley.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/uncanny-valley/Voices.ogg
+mods/songs/uncanny-valley/voices.ogg
+mods/songs/uncanny-valley/Inst.ogg
+mods/songs/uncanny-valley/inst.ogg

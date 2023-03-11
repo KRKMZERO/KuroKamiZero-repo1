@@ -1,0 +1,10 @@
+mods/data/callibattle/callibattle-easy.json
+mods/data/callibattle/callibattle-hard.json
+mods/data/callibattle/callibattle.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/callibattle/Voices.ogg
+mods/songs/callibattle/voices.ogg
+mods/songs/callibattle/Inst.ogg
+mods/songs/callibattle/inst.ogg

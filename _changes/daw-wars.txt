@@ -1,0 +1,10 @@
+mods/data/daw-wars/daw-wars-easy.json
+mods/data/daw-wars/daw-wars-hard.json
+mods/data/daw-wars/daw-wars.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/daw-wars/Voices.ogg
+mods/songs/daw-wars/voices.ogg
+mods/songs/daw-wars/Inst.ogg
+mods/songs/daw-wars/inst.ogg

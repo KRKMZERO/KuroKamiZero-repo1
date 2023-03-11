@@ -1,0 +1,8 @@
+mods/data/thunderstorm/thunderstorm.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/thunderstorm/Voices.ogg
+mods/songs/thunderstorm/voices.ogg
+mods/songs/thunderstorm/Inst.ogg
+mods/songs/thunderstorm/inst.ogg

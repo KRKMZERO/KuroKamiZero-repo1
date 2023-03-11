@@ -1,0 +1,10 @@
+mods/data/limiter/limiter-easy.json
+mods/data/limiter/limiter-hard.json
+mods/data/limiter/limiter.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/limiter/Voices.ogg
+mods/songs/limiter/voices.ogg
+mods/songs/limiter/Inst.ogg
+mods/songs/limiter/inst.ogg
