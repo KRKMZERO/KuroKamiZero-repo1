@@ -1,9 +1,0 @@
-mods/data/sugarcrush/events.json
-mods/data/sugarcrush/sugarcrush.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/sugarcrush/Voices.ogg
-mods/songs/sugarcrush/voices.ogg
-mods/songs/sugarcrush/Inst.ogg
-mods/songs/sugarcrush/inst.ogg

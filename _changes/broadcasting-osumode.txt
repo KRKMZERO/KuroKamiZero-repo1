@@ -1,8 +1,0 @@
-mods/data/broadcasting/broadcasting.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/broadcasting/Voices.ogg
-mods/songs/broadcasting/voices.ogg
-mods/songs/broadcasting/Inst.ogg
-mods/songs/broadcasting/inst.ogg

@@ -1,9 +1,0 @@
-mods/data/varcolac/varcolac-hard.json
-mods/data/varcolac/varcolac.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/varcolac/Voices.ogg
-mods/songs/varcolac/voices.ogg
-mods/songs/varcolac/Inst.ogg
-mods/songs/varcolac/inst.ogg

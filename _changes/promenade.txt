@@ -1,8 +1,0 @@
-mods/data/promenade/promenade.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/promenade/Voices.ogg
-mods/songs/promenade/voices.ogg
-mods/songs/promenade/Inst.ogg
-mods/songs/promenade/inst.ogg

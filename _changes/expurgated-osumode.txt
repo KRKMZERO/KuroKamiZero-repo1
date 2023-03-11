@@ -1,9 +1,0 @@
-mods/data/expurgated/expurgated.json
-mods/data/expurgated/hideDaMidScroll.lua
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/expurgated/Voices.ogg
-mods/songs/expurgated/voices.ogg
-mods/songs/expurgated/Inst.ogg
-mods/songs/expurgated/inst.ogg

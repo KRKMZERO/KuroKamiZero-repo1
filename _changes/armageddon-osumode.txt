@@ -1,8 +1,0 @@
-mods/data/armageddon/armageddon.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/armageddon/Voices.ogg
-mods/songs/armageddon/voices.ogg
-mods/songs/armageddon/Inst.ogg
-mods/songs/armageddon/inst.ogg

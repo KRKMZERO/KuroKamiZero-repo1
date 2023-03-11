@@ -1,8 +1,0 @@
-mods/data/lonely-sapphire/lonely-sapphire-easy.json
-mods/data/lonely-sapphire/lonely-sapphire-hard.json
-mods/data/lonely-sapphire/lonely-sapphire.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/lonely-sapphire/Inst.ogg
-mods/songs/lonely-sapphire/inst.ogg

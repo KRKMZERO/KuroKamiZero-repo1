@@ -1,8 +1,0 @@
-mods/data/double-kill/double-kill-hard.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/double-kill/Voices.ogg
-mods/songs/double-kill/voices.ogg
-mods/songs/double-kill/Inst.ogg
-mods/songs/double-kill/inst.ogg

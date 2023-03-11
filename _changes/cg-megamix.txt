@@ -1,8 +1,0 @@
-mods/data/cg-megamix/cg-megamix.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/cg-megamix/Voices.ogg
-mods/songs/cg-megamix/voices.ogg
-mods/songs/cg-megamix/Inst.ogg
-mods/songs/cg-megamix/inst.ogg

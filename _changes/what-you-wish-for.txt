@@ -1,8 +1,0 @@
-mods/data/what-you-wish-for/what-you-wish-for.json
-mods/scripts/AllRandom2.lua
-mods/scripts/combosystem.lua
-mods/scripts/ZERO_UI_ver7.lua
-mods/songs/what-you-wish-for/Voices.ogg
-mods/songs/what-you-wish-for/voices.ogg
-mods/songs/what-you-wish-for/Inst.ogg
-mods/songs/what-you-wish-for/inst.ogg
