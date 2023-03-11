@@ -1,0 +1,11 @@
+mods/data/mirror-magic/events.json
+mods/data/mirror-magic/hideDaMidScroll.lua
+mods/data/mirror-magic/jump screen.lua
+mods/data/mirror-magic/mirror-magic.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/mirror-magic/Voices.ogg
+mods/songs/mirror-magic/voices.ogg
+mods/songs/mirror-magic/Inst.ogg
+mods/songs/mirror-magic/inst.ogg

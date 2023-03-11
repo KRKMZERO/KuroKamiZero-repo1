@@ -1,0 +1,10 @@
+mods/data/real-deal/events.json
+mods/data/real-deal/real-deal-erect.json
+mods/data/real-deal/real-deal-true-fear.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/real-deal/Voices.ogg
+mods/songs/real-deal/voices.ogg
+mods/songs/real-deal/Inst.ogg
+mods/songs/real-deal/inst.ogg

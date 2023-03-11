@@ -1,0 +1,9 @@
+mods/data/before-the-storm/before-the-storm-hard.json
+mods/data/before-the-storm/before-the-storm.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/before-the-storm/Voices.ogg
+mods/songs/before-the-storm/voices.ogg
+mods/songs/before-the-storm/Inst.ogg
+mods/songs/before-the-storm/inst.ogg

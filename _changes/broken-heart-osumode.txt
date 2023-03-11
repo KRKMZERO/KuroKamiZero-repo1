@@ -1,0 +1,15 @@
+mods/data/broken-heart/broken-heart-easy.json
+mods/data/broken-heart/broken-heart-hard.json
+mods/data/broken-heart/broken-heart.json
+mods/data/broken-heart/CameraMovement.lua
+mods/data/broken-heart/dialogue3-1.lua
+mods/data/broken-heart/dialogue3-2.lua
+mods/data/broken-heart/IntroText.lua
+mods/data/broken-heart/StageEvent3.lua
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/broken-heart/Voices.ogg
+mods/songs/broken-heart/voices.ogg
+mods/songs/broken-heart/Inst.ogg
+mods/songs/broken-heart/inst.ogg

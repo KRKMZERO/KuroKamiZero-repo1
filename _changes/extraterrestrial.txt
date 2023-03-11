@@ -1,0 +1,8 @@
+mods/data/extraterrestrial/extraterrestrial.json
+mods/scripts/AllRandom2.lua
+mods/scripts/combosystem.lua
+mods/scripts/ZERO_UI_ver7.lua
+mods/songs/extraterrestrial/Voices.ogg
+mods/songs/extraterrestrial/voices.ogg
+mods/songs/extraterrestrial/Inst.ogg
+mods/songs/extraterrestrial/inst.ogg
