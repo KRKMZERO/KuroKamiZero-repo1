@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "calli",
+			"boxState": "normal",
+			"expression": "Really",
+			"text": "(I wonder why everyone's so interested in rap these days...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "foob",
+			"boxState": "normal",
+			"expression": "Neutral",
+			"text": "The suspect I'm looking for was reportedly spotted in this very area, alongside you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "calli",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Really, now? I come here often, so I'm not quite sure I know who you're talking about. Do you have a description?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "Foob",
+			"boxState": "normal",
+			"expression": "Feliz 2",
+			"text": "Not at all!"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "Mio",
+			"boxState": "normal",
+			"expression": "Frowend",
+			"text": "We're uh... usually better at our jobs than this. We weren't given a lot of information to begin with."
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "calli",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "That's fine. I'm sure I can probably help you figure a few things out by the end of this."
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "movie-hall",
+		"player1": "erect-bf",
+		"player2": "erect-tossler-guitar",
+		"player3": null,
+		"events": [
+			[
+				74666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						".05",
+						".1"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				151416.666666667,
+				[
+					[
+						"Hey!",
+						"Something Else",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "erect-gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Real Deal"
+	}
+}
